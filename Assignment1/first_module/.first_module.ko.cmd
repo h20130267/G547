@@ -1,0 +1,1 @@
+cmd_/home/gunturi/G547/Assignment1/first_module/first_module.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gunturi/G547/Assignment1/first_module/first_module.ko /home/gunturi/G547/Assignment1/first_module/first_module.o /home/gunturi/G547/Assignment1/first_module/first_module.mod.o ;  true
