@@ -1,4 +1,4 @@
- Assignment3 folder contains a user space program "test_pit.c" and a directory named "pit" which internally contains kernel module named "pit.c" where implementation of accurate delay and reading current counter value functions are performed by (IO mapped HW)accessing the legacy 8254 Programmable intervel timer.
+Assignment3 folder contains a user space program "test_pit.c" and a directory named "pit" which internally contains kernel module named "pit.c" where implementation of accurate delay and reading current counter value functions are performed by (IO mapped HW)accessing the legacy 8254 Programmable intervel timer.
 
 USAGE:
 1. cd /Assignment3/pit
