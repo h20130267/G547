@@ -1,1 +1,0 @@
-cmd_/home/gunturi/G547/Assignment2/adc/adc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/gunturi/G547/Assignment2/adc/adc.ko /home/gunturi/G547/Assignment2/adc/adc.o /home/gunturi/G547/Assignment2/adc/adc.mod.o ;  true
